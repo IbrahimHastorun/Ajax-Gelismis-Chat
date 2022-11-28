@@ -1,0 +1,16 @@
+﻿<span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">hakan</kbd>merhaba
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">ibrahim</kbd>merhaba
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">hakan</kbd>nasılsın
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">ibrahim</kbd>iyi sen
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">hakan</kbd>bende iyi şükür diyelim
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">ibrahim</kbd>OKEYY
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">hakan</kbd>niye çıktın ***
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#f03">ibrahim</kbd>son kez
+</span><br><span class="pb-5" style="color:#f03"><kbd style="background-color:#31CFFF">ibrahim</kbd>merhabaaaa
+</span><br><span class="pb-5" style="color:#EB4EFF"><kbd style="background-color:#31CFFF">ibrahim</kbd>selammmmmm
+</span><br><span class="pb-5" style="color:#EB4EFF"><kbd style="background-color:#FFD667">ibrahim</kbd>helloo
+</span><br><span class="pb-5" style="color:#F1FF62"><kbd style="background-color:#9D9AFF">ibrahim</kbd>alooooooooooo
+</span><br><span class="pb-5" style="color:#FF3B0E"><kbd style="background-color:#9D9AFF">ibrahim</kbd>merhabababababa
+</span><br><span class="pb-5" style="color:#FFF62C"><kbd style="background-color:#2CFF5E">hakan</kbd>ooooo yeni özellikssss
+</span><br><span class="pb-5" style="color:#FF3B0E"><kbd style="background-color:#9D9AFF">ibrahim</kbd>aynen
+</span><br>
